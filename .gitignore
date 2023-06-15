@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Other
+Resume_SP_files/
+.html
+.Rproj

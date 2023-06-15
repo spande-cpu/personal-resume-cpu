@@ -1,0 +1,201 @@
+---
+title: "Shashwat Pande's resume"
+author: spande-cpu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+# Aside {style="fill: red;"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [shashwatpande101\@gmail.com](mailto:shashwatpande101@.com){.email}
+-   <i class="fa fa-github"></i> [github.com/spande-cpu](https://github.com/spande-cpu)
+-   For more information, feel free to contact me via email.
+
+## Skills {#skills}
+
+### Substantive {data-concise="true"}
+
+-   Basic and applied research in data science and decision-making.
+-   Behavioural research methods.
+-   Managing ambiguous projects.
+-   Inductive reasoning.
+-   Teaching.
+
+### Methods
+
+-   Clustering and data partitioning methods.
+-   Classification models.
+-   Time-series analysis and anomaly detection.
+-   Network analysis.
+-   Text mining and natural language processing.
+-   Survey and experiment design.
+
+### Means
+
+-   Programming languages: R (expert), Python.
+-   Documentation: Shiny, Markdown, LaTeX, MS Office Suite.
+-   Cloud: GCP, Git, MS Azure and SharePoint.
+
+## Disclaimer {#disclaimer}
+Last updated on `r Sys.Date()`
+
+# Main
+
+## Dr. Shashwat M. Pande {#title}
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of Manchester
+
+PhD. in Business & Management (Decision Sciences & Operational Research)
+
+Manchester, United Kingdom
+
+2019
+
+Thesis: *Essays on limited attention in information-rich environments.*
+
+### University of Manchester
+
+MSc. in Information Systems
+
+Manchester, United Kingdom
+
+2014
+
+Thesis: *Examining the impact of source-effects on attention worthiness.*
+
+### Lancaster University
+
+BBA. (Hons.) in Business Studies
+
+Lancaster, United Kingdom
+
+2013
+
+Coursework: *Economics, Management, Statistics and Finance*
+
+## Experience {data-icon="suitcase"}
+
+### Lead Data Scientist
+
+Triumph Motorcycles
+
+Hinckley, UK
+
+Present - 2022
+
+::: concise
+Partnering with clients (from C-level executives to Data Engineers and External Contributors) throughout the data-science value-chain to help formulate the **strategic development, implementation and operationalisation of data-driven decision-making** across this iconic marque's commercial R&D activities.
+:::
+
+### Associate (Data Scientist)
+
+Loughborough University
+
+Loughborough, UK
+
+2022 - 2020
+
+::: concise
+Delivered a £200,000 Knowledge Transfer Partnership project with joint funding from the UKRI and Triumph Motorcycles to identify use-cases, prototype solutions and build capabilities in applied data-science by **commercialising research carried out at the Centre for Information Management**. The project was graded 'outstanding' in attaining UKRI's objectives by an independent panel of assessors.
+:::
+
+### Class Teacher
+
+London School of Economics
+
+London, UK
+
+2020 - 2019
+
+Taught **courses on topics in probability, risk-perception, decision science and strategic decision-making** as part of the LSE summer school and executive-training programmes.
+
+### Research Assistant
+
+University of Manchester
+
+Manchester, UK
+
+2019 - 2016
+
+Supported faculty research in **quantitative analysis of behavioural data** and provided supervision and pastoral **support for Master's dissertation** projects.
+
+### Graduate Teaching Assistant
+
+N/A
+
+N/A
+
+N/A
+
+Taught Master's courses at the Alliance Manchester Business School in **research methods, quantitative analysis and machine learning**.
+
+## Selected Publications {data-icon="file"}
+
+### The attention economy of online search: a panel-study using clickstream data.
+
+SSRN Working Paper.
+
+N/A
+
+2022
+
+**Pande, S.M.**, Holland, C.P., Papamichail, N. & Kawalek, P.
+
+### Compatibility effects in the prescriptive application of psychological heuristics.
+
+European Journal of Operational Research 295(3), pp. 982-995.
+
+N/A
+
+2021
+
+**Pande, S.M.**, Papamichail, N.K. & Kawalek, P.
+
+### MCDM choice: The interplay between attentional control, selection strategy and information load.
+
+Advances in Decision Analysis, Decision Analysis Society of INFORMS
+
+Bocconi University
+
+2019
+
+**Pande, S.M.**, Papamichail, N. & Kawalek, P.
+
+### Are behavioural maximisers more prone to biased judgements than their satisficing counterparts?
+
+30th European Conference on Operational Research
+
+University College Dublin
+
+2018
+
+**Pande, S.M.**, Papamichail, N. & Kawalek, P.
+
+## Service to the Profession {data-icon="fa fa-handshake-o" data-concise="true"}
+
+### Visiting Researcher
+
+Centre for Information Management
+
+Loughborough University.
+
+### *Ad-hoc* peer-reviewer
+
+*Cities: the Journal of Urban Policy and Planning* and the *European Journal of Operational Research*.
+
+N/A
+
+N/A
+
+### Member
+
+Decision Analysis Society of INFORMS, EURO Working Group on Operational Research and the Society for Judgement & Decision Making.
