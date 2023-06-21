@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 # Aside {style="fill: red;"}
@@ -28,7 +28,7 @@ output:
 -   Inductive reasoning.
 -   Teaching.
 
-### Methods
+### Technical
 
 -   Clustering and data partitioning methods.
 -   Classification models.
@@ -37,7 +37,7 @@ output:
 -   Text mining and natural language processing.
 -   Survey and experiment design.
 
-### Means
+### Technological
 
 -   Programming languages: R (expert), Python.
 -   Documentation: Shiny, Markdown, LaTeX, MS Office Suite.
@@ -57,31 +57,31 @@ Last updated on `r Sys.Date()`
 
 PhD. Business & Management (Decision Sciences & Operational Research)
 
-Manchester, United Kingdom
+Manchester, UK
 
 2019
 
-Thesis: *Essays on limited attention in information-rich environments.*
+Thesis: *Essays on Limited Attention in Information-Rich Environments.*
 
 ### University of Manchester
 
 MSc. Information Systems
 
-Manchester, United Kingdom
+Manchester, UK
 
 2014
 
-Thesis: *Examining the impact of source-effects on attention worthiness.*
+Thesis: *Examining the Impact of Source-Effects on Attention Worthiness.*
 
 ### Lancaster University
 
 BBA. (Hons.) in Business Studies
 
-Lancaster, United Kingdom
+Lancaster, UK
 
 2013
 
-Coursework: *Economics, Statistics, Finance and Management*
+Coursework: *Economics, Statistics, Finance and Management.*
 
 ## Experience {data-icon="suitcase"}
 
