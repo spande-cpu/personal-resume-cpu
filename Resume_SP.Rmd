@@ -22,8 +22,8 @@ output:
 
 ### Substantive {data-concise="true"}
 
--   Basic and applied research in data science and decision-making.
--   Behavioural research methods.
+-   Basic and applied research in data-science and decision-making.
+-   Behavioural research-methods.
 -   Managing ambiguous projects.
 -   Inductive reasoning.
 -   Teaching.
@@ -44,6 +44,7 @@ output:
 -   Cloud: GCP, Git, MS Azure and SharePoint.
 
 ## Disclaimer {#disclaimer}
+
 Last updated on `r Sys.Date()`
 
 # Main
@@ -54,7 +55,7 @@ Last updated on `r Sys.Date()`
 
 ### University of Manchester
 
-PhD. in Business & Management (Decision Sciences & Operational Research)
+PhD. Business & Management (Decision Sciences & Operational Research)
 
 Manchester, United Kingdom
 
@@ -64,7 +65,7 @@ Thesis: *Essays on limited attention in information-rich environments.*
 
 ### University of Manchester
 
-MSc. in Information Systems
+MSc. Information Systems
 
 Manchester, United Kingdom
 
@@ -80,7 +81,7 @@ Lancaster, United Kingdom
 
 2013
 
-Coursework: *Economics, Management, Statistics and Finance*
+Coursework: *Economics, Statistics, Finance and Management*
 
 ## Experience {data-icon="suitcase"}
 
@@ -186,7 +187,7 @@ University College Dublin
 
 Centre for Information Management
 
-Loughborough University.
+Loughborough University
 
 ### *Ad-hoc* peer-reviewer
 
