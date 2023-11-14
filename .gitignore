@@ -50,5 +50,6 @@ rsconnect/
 
 # Other
 Resume_SP_files/
-.html
-.Rproj
+*.html
+*.DS_Store
+*.Rproj
