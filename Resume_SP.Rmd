@@ -49,13 +49,13 @@ Last updated on `r Sys.Date()`
 
 # Main
 
-## Dr. Shashwat M. Pande {#title}
+## Shashwat M. Pande {#title}
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### University of Manchester
 
-PhD. Business & Management (Decision Sciences & Operational Research)
+PhD. in Decision Science
 
 Manchester, UK
 
@@ -65,7 +65,7 @@ Thesis: *Essays on Limited Attention in Information-Rich Environments.*
 
 ### University of Manchester
 
-MSc. Information Systems
+MSc. in Information Systems
 
 Manchester, UK
 
